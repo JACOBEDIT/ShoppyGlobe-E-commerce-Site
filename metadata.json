@@ -1,0 +1,5 @@
+{
+  "name": "ShoppyGlobe",
+  "description": "A feature-rich e-commerce application built with React, Redux, and Tailwind CSS, featuring product lists, dynamic details, cart management, and a seamless checkout process.",
+  "requestFramePermissions": []
+}
